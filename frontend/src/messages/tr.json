@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "rooms": "Odalar",
+    "services": "Hizmetler",
+    "restaurant": "Restoran & Bar",
+    "meetings": "Toplantı & Etkinlik",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "about": "Hakkımızda",
+    "bookNow": "Rezervasyon Yap"
+  },
+  "home": {
+    "hero": {
+      "title": "End Glory Hotel'e Hoş Geldiniz",
+      "subtitle": "Konforun ve lüksün buluştuğu eşsiz bir deneyim",
+      "cta": "Rezervasyon Yap",
+      "viewRooms": "Odaları Görüntüle",
+      "premiumService": "Premium Hizmet",
+      "primeLocation": "Merkezi Konum",
+      "fiveStarAmenities": "5 Yıldız Olanaklar"
+    },
+    "featuredRooms": "Öne Çıkan Odalar",
+    "featuredRoomsDesc": "Özenle tasarlanmış odalarımızda eşsiz lüks deneyimi yaşayın",
+    "viewAllRooms": "Tüm Odaları Görüntüle",
+    "perNight": "gecelik",
+    "services": "Hizmetlerimiz",
+    "servicesDesc": "Üst düzey konforunuz için tasarlanmış premium olanaklar",
+    "testimonials": "Misafir Yorumları",
+    "testimonialsDesc": "Değerli misafirlerimizin deneyimleri hakkında söyledikleri",
+    "location": "Konumumuz",
+    "locationDesc": "Şehrin kalbinde, tüm önemli noktalara kolay erişim",
+    "awards": {
+      "title": "Ödüller ve Takdirler",
+      "desc": "Dünyanın en prestijli konaklama organizasyonları tarafından takdir edilmekten onur duyuyoruz",
+      "stats": {
+        "rooms": "Lüks Oda",
+        "satisfaction": "Misafir Memnuniyeti",
+        "countries": "Ülkeye Hizmet",
+        "concierge": "Concierge Hizmeti"
+      }
+    },
+    "experience": {
+      "title": "End Glory Deneyimi",
+      "desc": "Lükse dalın ve unutulmaz anılar yaratın",
+      "culinary": {
+        "title": "Mutfak Mükemmelliği",
+        "desc": "Michelin yıldızlı şeflerimiz tarafından en kaliteli yerel ve uluslararası malzemeler kullanılarak hazırlanan dünya standartlarında mutfağın tadını çıkarın"
+      },
+      "wellness": {
+        "title": "Sağlık ve Spa",
+        "desc": "Kapsamlı spa tedavilerimiz ve sağlık programlarımızla bedeninizi ve zihninizi yenileyin"
+      },
+      "pool": {
+        "title": "Çatı Infinity Havuz",
+        "desc": "Nefes kesici panoramik şehir manzarasının keyfini çıkarırken muhteşem çatı infinity havuzumuzda rahatlayın"
+      },
+      "features": {
+        "quality": "Premium Kalite",
+        "staff": "Uzman Kadro",
+        "service": "Kişiselleştirilmiş Hizmet"
+      }
+    },
+    "offers": {
+      "title": "Özel Teklifler",
+      "badge": "Özel Fırsatlar",
+      "desc": "Özel paketlerimizden ve sınırlı süreli tekliflerimizden yararlanın",
+      "earlyBird": {
+        "title": "Erken Rezervasyon",
+        "discount": "%30 İNDİRİM",
+        "desc": "60 gün önceden rezervasyon yapın ve konaklamanızda %30'a varan indirim kazanın",
+        "valid": "31 Mart 2026'ya kadar geçerli"
+      },
+      "romantic": {
+        "title": "Romantik Kaçamak",
+        "discount": "1.499₺'den",
+        "desc": "İki kişilik şampanya, güller, spa tedavisi ve mum ışığında akşam yemeği",
+        "valid": "Yıl boyu paket"
+      },
+      "extended": {
+        "title": "Uzun Konaklama",
+        "discount": "4. Gece Bedava",
+        "desc": "3 gece kalın ve 4. geceyi tamamen ücretsiz kazanın",
+        "valid": "Haziran 2026'ya kadar geçerli"
+      },
+      "cta": {
+        "title": "Aradığınızı Bulamadınız mı?",
+        "desc": "İhtiyaçlarınıza özel paketler için rezervasyon ekibimizle iletişime geçin",
+        "contact": "Bize Ulaşın",
+        "call": "Hemen Arayın"
+      }
+    },
+    "video": {
+      "title": "Lüks Deneyimi",
+      "desc": "Muhteşem tesisimizin ve dünya standartlarındaki olanaklarımızın sanal turunu yapın"
+    },
+    "instagram": {
+      "title": "@endgloryhotel",
+      "desc": "Günlük ilham ve özel perde arkası içerikler için bizi Instagram'da takip edin",
+      "follow": "Instagram'da Takip Et"
+    }
+  },
+  "booking": {
+    "title": "Rezervasyon",
+    "checkIn": "Giriş Tarihi",
+    "checkOut": "Çıkış Tarihi",
+    "guests": "Misafir Sayısı",
+    "room": "Oda Seçimi",
+    "submit": "Rezervasyon Yap",
+    "success": "Rezervasyonunuz başarıyla alındı!"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "about": "Hakkımızda",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "newsletter": "Bülten",
+    "newsletterDesc": "Özel teklifler ve haberler için abone olun",
+    "subscribe": "Abone Ol",
+    "emailPlaceholder": "E-posta adresiniz"
+  }
+}

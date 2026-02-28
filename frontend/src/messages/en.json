@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "services": "Services",
+    "restaurant": "Restaurant & Bar",
+    "meetings": "Meetings & Events",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "about": "About",
+    "bookNow": "Book Now"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to End Glory Hotel",
+      "subtitle": "An exceptional experience where comfort meets luxury",
+      "cta": "Book Now",
+      "viewRooms": "View Rooms",
+      "premiumService": "Premium Service",
+      "primeLocation": "Prime Location",
+      "fiveStarAmenities": "5-Star Amenities"
+    },
+    "featuredRooms": "Featured Rooms",
+    "featuredRoomsDesc": "Experience unparalleled luxury in our carefully designed rooms and suites",
+    "viewAllRooms": "View All Rooms",
+    "perNight": "per night",
+    "services": "Our Services",
+    "servicesDesc": "Experience world-class amenities and services designed for your ultimate comfort and convenience",
+    "testimonials": "Guest Reviews",
+    "testimonialsDesc": "Hear what our distinguished guests have to say about their experience",
+    "location": "Our Location",
+    "locationDesc": "Perfectly situated in the heart of the city with easy access to all major attractions",
+    "awards": {
+      "title": "Awards & Recognition",
+      "desc": "Honored to be recognized by the world's most prestigious hospitality organizations",
+      "stats": {
+        "rooms": "Luxury Rooms",
+        "satisfaction": "Guest Satisfaction",
+        "countries": "Countries Served",
+        "concierge": "Concierge Service"
+      }
+    },
+    "experience": {
+      "title": "The End Glory Experience",
+      "desc": "Immerse yourself in luxury and create unforgettable memories",
+      "culinary": {
+        "title": "Culinary Excellence",
+        "desc": "Savor world-class cuisine prepared by Michelin-starred chefs using the finest local and international ingredients"
+      },
+      "wellness": {
+        "title": "Wellness & Spa",
+        "desc": "Rejuvenate your body and mind with our comprehensive spa treatments and wellness programs"
+      },
+      "pool": {
+        "title": "Rooftop Infinity Pool",
+        "desc": "Unwind in our stunning rooftop infinity pool while enjoying breathtaking panoramic city views"
+      },
+      "features": {
+        "quality": "Premium Quality",
+        "staff": "Expert Staff",
+        "service": "Personalized Service"
+      }
+    },
+    "offers": {
+      "title": "Special Offers",
+      "badge": "Exclusive Deals",
+      "desc": "Take advantage of our exclusive packages and limited-time offers",
+      "earlyBird": {
+        "title": "Early Bird Special",
+        "discount": "30% OFF",
+        "desc": "Book 60 days in advance and save up to 30% on your stay",
+        "valid": "Valid until March 31, 2026"
+      },
+      "romantic": {
+        "title": "Romantic Getaway",
+        "discount": "From $299",
+        "desc": "Champagne, roses, spa treatment, and candlelit dinner for two",
+        "valid": "Year-round package"
+      },
+      "extended": {
+        "title": "Extended Stay",
+        "discount": "4th Night Free",
+        "desc": "Stay 3 nights and get the 4th night absolutely free",
+        "valid": "Valid for stays until June 2026"
+      },
+      "cta": {
+        "title": "Can't Find What You're Looking For?",
+        "desc": "Contact our reservations team for custom packages tailored to your needs",
+        "contact": "Contact Us",
+        "call": "Call Now"
+      }
+    },
+    "video": {
+      "title": "Experience Luxury",
+      "desc": "Take a virtual tour of our stunning property and world-class amenities"
+    },
+    "instagram": {
+      "title": "@endgloryhotel",
+      "desc": "Follow us on Instagram for daily inspiration and exclusive behind-the-scenes content",
+      "follow": "Follow on Instagram"
+    }
+  },
+  "booking": {
+    "title": "Booking",
+    "checkIn": "Check-in Date",
+    "checkOut": "Check-out Date",
+    "guests": "Number of Guests",
+    "room": "Select Room",
+    "submit": "Book Now",
+    "success": "Your reservation has been received!"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "about": "About",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe for exclusive offers and news",
+    "subscribe": "Subscribe",
+    "emailPlaceholder": "Your email address"
+  }
+}
