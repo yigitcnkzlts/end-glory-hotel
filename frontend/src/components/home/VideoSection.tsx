@@ -94,8 +94,8 @@ export default function VideoSection() {
               <div className="relative aspect-video w-full max-w-5xl">
                 <iframe
                   className="h-full w-full rounded-lg"
-                  src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1"
-                  title="Hotel Tour"
+                  src="https://www.youtube.com/embed/WbZN2WvcKgY?autoplay=1"
+                  title="End Glory Hotel Tour"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
                 />
