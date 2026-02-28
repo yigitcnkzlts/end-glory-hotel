@@ -23,16 +23,20 @@
 ### 3️⃣ ⚠️ ÖNEMLİ: Root Directory Ayarı
 **BU ADIM ÇOK ÖNEMLİ! Aksi halde deployment başarısız olur.**
 
-1. **"Root Directory"** bölümünde **"Edit"** butonuna tıkla
-2. **"frontend"** yazıp seç
+1. Import ekranında **"Root Directory"** bölümünde **"Edit"** butonuna tıkla
+2. Dropdown'dan **"frontend"** seçeneğini seç (veya manuel olarak `frontend` yaz)
 3. ✅ Root Directory: `frontend` olmalı
+4. Framework Preset otomatik **"Next.js"** olarak algılanacak
 
 ### 4️⃣ Framework ve Build Ayarları
-Vercel otomatik algılayacak ama kontrol et:
-- **Framework Preset**: Next.js
-- **Build Command**: `npm run build`
-- **Output Directory**: `.next`
-- **Install Command**: `npm install`
+Vercel otomatik algılayacak, kontrol et:
+- **Framework Preset**: Next.js ✅
+- **Root Directory**: `frontend` ✅
+- **Build Command**: `npm run build` (otomatik)
+- **Output Directory**: `.next` (otomatik)
+- **Install Command**: `npm install` (otomatik)
+
+**Not**: Root Directory doğru ayarlandıysa diğer ayarlar otomatik gelir!
 
 ### 5️⃣ Environment Variables (Opsiyonel)
 Şimdilik gerekli değil, ama backend bağlandığında:
